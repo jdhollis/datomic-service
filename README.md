@@ -1,4 +1,4 @@
-# `datomic`
+# datomic-service
 
 ## AWS
 
